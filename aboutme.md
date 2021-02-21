@@ -1,0 +1,1 @@
+Hi, My name is Thimath, I am learning to code and the current module I am learning is app development and JSX. I also share a same love for cars and technology. These three things are all things i love to do!
